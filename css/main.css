@@ -1,3 +1,21 @@
+/*GREEN*/
+.green {
+	padding: 30px;
+	text-align: center;
+}
+
+.green ul li a {
+	color: black;
+}
+
+.row div{
+	padding: 20px;
+	margin-left: 120px;
+}
+
+.buttongrn {
+	text-align: center;
+}
 /*PINK AND LT BLUE*/
 body {
 	margin: 0;
