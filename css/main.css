@@ -16,6 +16,40 @@
 .buttongrn {
 	text-align: center;
 }
+
+
+/*LIGHT GRAY*/
+.left, .right {
+	display: inline-block;
+	width: 40%;
+	vertical-align: top;
+	text-align: left;
+}
+
+.left {
+	margin-left: 140px;
+	margin-top: 35px;
+}
+
+.right {
+	margin-top: 35px;
+	margin-bottom: 100px;
+	color: black;
+	font-size: 15px;
+}
+
+.right button {
+	border-radius: 5px;
+	background-color: #00e699;
+	color: white;
+	padding: 10px;
+}
+
+
+/*PINK ONLY*/
+.pink {
+	text-align: center;
+}
 /*PINK AND LT BLUE*/
 body {
 	margin: 0;
