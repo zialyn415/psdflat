@@ -1,0 +1,7 @@
+div.carousel-item img {
+	object-fit: contain;
+}
+
+div.row img {
+	object-fit: cover;
+}
